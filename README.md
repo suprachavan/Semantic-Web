@@ -12,4 +12,4 @@ By querying the DBpedia ontology with SPARQL queries, we can retrieve meaningful
 * Films which were low on budget but still managed to fare well.
 * The profits earned by a particular film.
 The system offer an interactive interface where user can enter a specific movie name and can get the above mentioned statistics in return from the system. This UI will be created in Java and Apache Jena framework is used for integrating Java code with SPARQL.
-### Take a look at the presentation by visiting this [Link](https://docs.google.com/presentation/d/1TFMww6WFOuVQgt4iiTtjEfW6kPzNXoP_xwXHMlg-rKI/edit?usp=sharing) 
+### Take a look at the presentation by visiting this [Link](https://docs.google.com/presentation/d/1TFMww6WFOuVQgt4iiTtjEfW6kPzNXoP_xwXHMlg-rKI/edit?usp=sharing) ###
